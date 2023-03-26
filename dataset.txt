@@ -1,0 +1,5 @@
+Beetle dataset:  https://cstr.cn/31253.11.sciencedb.07795
+Fungi dataset: https://sites.google.com/view/danish-fungi-dataset
+Butterfly dataset: https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
+Bird dataset: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+Flower dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
